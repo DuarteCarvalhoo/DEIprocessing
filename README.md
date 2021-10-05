@@ -3,30 +3,24 @@
 
 ### Manual Install
 
-Contributed tools may be downloaded separately and manually placed within the `tools` folder of your Processing sketchbook. To find (and change) the Processing sketchbook location on your computer, open the Preferences window from the Processing application (PDE) and look for the "Sketchbook location" item at the top.
+In order to install DEIprocessing tool you have to complete a few steps:
 
-By default the following locations are used for your sketchbook folder: 
-  * For Mac users, the sketchbook folder is located inside `~/Documents/Processing` 
-  * For Windows users, the sketchbook folder is located inside `My Documents/Processing`
+ 1. Download [DEIprocessing](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7279327/DEIprocessing.zip) and [DEIprocessing_exe](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7279733/DEIprocessing_exe.zip)
+ 2. Unzip DEIprocessing_exe and copy the files DEIprocessing.exe and libfreeglut.dll into your Processing main folder and it should look something like this:
+ 
+![image](https://user-images.githubusercontent.com/43268098/136108691-a9ddc005-4fdc-4f1d-8c74-7cb132a6862e.png)
 
-Download DEIprocessing from https://github.com/DuarteCarvalhoo/DEIprocessing
+ After that you can delete the zip.
 
-Unzip and copy the contributed tool's folder into the `tools` folder in the Processing sketchbook. You will need to create this `tools` folder if it does not exist.
-    
-The folder structure for tool DEIprocessing should be as follows:
+ 3. For the last step put DEIprocessing zip into the tool's folder
 
-```
-Processing
-  tools
-    DEIprocessing
-      examples
-      tool
-        DEIprocessing.jar
-      reference
-      src
-```
-                      
-Some folders like `examples` or `src` might be missing. After tool DEIprocessing has been successfully installed, restart the Processing application.
+![image](https://user-images.githubusercontent.com/43268098/136109079-6a9e6a9c-9fd8-4c7f-aafa-46d4d539c393.png)
+
+And unzip it once it's in the right folder. It should looks like this:
+
+![image](https://user-images.githubusercontent.com/43268098/136109306-7df49fc8-21e3-40f4-9c4d-359a6d4b6969.png)
+
+After tool DEIprocessing has been successfully installed, restart the Processing application.
 
 ### Troubleshooting
 
