@@ -3,7 +3,7 @@
 
 ### Manual Install
 
-In order to install DEIprocessing tool you have to complete a few steps:
+In order to install DEIprocessing tool you can donwload a Processing with the tool inside already ([here](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/Processing4.0_v1/processing-4.0b1.zip), you only have to unzip it) or you have to complete a few steps:
 
  1. Download [DEIprocessing](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7279327/DEIprocessing.zip) and [DEIprocessing_exe](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7279733/DEIprocessing_exe.zip)
  2. Unzip DEIprocessing_exe and copy the files DEIprocessing.exe and libfreeglut.dll into your Processing main folder and it should look something like this:
