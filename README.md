@@ -3,6 +3,9 @@
 
 ### Manual Install
 
+Version of DEIprocessing used in the class. [Download](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/DEIprocessingClassroom/processing-4.0b1.zip).
+
+
 In order to install DEIprocessing tool you can donwload a Processing with the tool inside already ([here](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/Processing4.0_v1/processing-4.0b1.zip), you only have to unzip it) or you have to complete a few steps:
 
  1. Download [DEIprocessing](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7279327/DEIprocessing.zip) and [DEIprocessing_exe](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7279733/DEIprocessing_exe.zip)
