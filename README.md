@@ -8,6 +8,7 @@ Version of DEIprocessing used in the class. [Download](https://github.com/Duarte
 Give us some feedback [here](https://forms.gle/Qq7pGnjcNYU9mrMz7).
 
 [Simple example](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7367053/Teste2VarsColors.txt)
+
 [Class' exercise](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7367408/aula.txt)
 
 
