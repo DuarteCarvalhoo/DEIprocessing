@@ -1,17 +1,6 @@
 # DEIprocessing
 ## How to install DEIprocessing
 
-### Scrath Install
-
-Version of DEIprocessing already in the IDE Processing. [Download](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/DEIprocessing_final/DEIprocessing.zip). You only have to unzip it.
-
-Give us some feedback [here](https://forms.gle/Qq7pGnjcNYU9mrMz7).
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Phased Install
-
 In order to install DEIprocessing tool you can donwload a Processing with the tool inside already ([here](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/Processing4.0_v1/processing-4.0b1.zip), you only have to unzip it) or you have to complete a few steps:
 
  1. Download [DEIprocessing](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7279327/DEIprocessing.zip) and [DEIprocessing_exe](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7445394/DEIprocessing_exe.zip)
@@ -30,6 +19,8 @@ And unzip it once it's in the right folder. It should looks like this:
 ![image](https://user-images.githubusercontent.com/43268098/136109306-7df49fc8-21e3-40f4-9c4d-359a6d4b6969.png)
 
 After tool DEIprocessing has been successfully installed, restart the Processing application.
+
+Give us some feedback [here](https://forms.gle/Qq7pGnjcNYU9mrMz7).
 
 ### Troubleshooting
 
