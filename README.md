@@ -3,7 +3,7 @@
 
 ### Scrath Install
 
-Version of DEIprocessing already in the IDE Processing. [Download](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/DEIprocessingClassroom/processing-4.0b1.zip). You only have to unzip it.
+Version of DEIprocessing already in the IDE Processing. [Download](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/DEIprocessing_final/DEIprocessing.zip). You only have to unzip it.
 
 Give us some feedback [here](https://forms.gle/Qq7pGnjcNYU9mrMz7).
 
@@ -14,7 +14,7 @@ Give us some feedback [here](https://forms.gle/Qq7pGnjcNYU9mrMz7).
 
 In order to install DEIprocessing tool you can donwload a Processing with the tool inside already ([here](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/Processing4.0_v1/processing-4.0b1.zip), you only have to unzip it) or you have to complete a few steps:
 
- 1. Download [DEIprocessing](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7279327/DEIprocessing.zip) and [DEIprocessing_exe](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7279733/DEIprocessing_exe.zip)
+ 1. Download [DEIprocessing](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7279327/DEIprocessing.zip) and [DEIprocessing_exe](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7445394/DEIprocessing_exe.zip)
  2. Unzip DEIprocessing_exe and copy the files DEIprocessing.exe and libfreeglut.dll into your Processing main folder and it should look something like this:
  
 ![image](https://user-images.githubusercontent.com/43268098/136108691-a9ddc005-4fdc-4f1d-8c74-7cb132a6862e.png)
