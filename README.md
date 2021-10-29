@@ -1,18 +1,16 @@
 # DEIprocessing
 ## How to install DEIprocessing
 
-### Manual Install
+### Scrath Install
 
-Version of DEIprocessing used in the class. [Download](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/DEIprocessingClassroom/processing-4.0b1.zip).
+Version of DEIprocessing already in the IDE Processing. [Download](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/DEIprocessingClassroom/processing-4.0b1.zip).
 
 Give us some feedback [here](https://forms.gle/Qq7pGnjcNYU9mrMz7).
 
-[Simple example](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7367053/Teste2VarsColors.txt)
-
-[Class' exercise](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7367408/aula.txt)
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Phased Install
 
 In order to install DEIprocessing tool you can donwload a Processing with the tool inside already ([here](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/Processing4.0_v1/processing-4.0b1.zip), you only have to unzip it) or you have to complete a few steps:
 
