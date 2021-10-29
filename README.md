@@ -3,7 +3,7 @@
 
 ### Scrath Install
 
-Version of DEIprocessing already in the IDE Processing. [Download](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/DEIprocessingClassroom/processing-4.0b1.zip).
+Version of DEIprocessing already in the IDE Processing. [Download](https://github.com/DuarteCarvalhoo/DEIprocessing/releases/download/DEIprocessingClassroom/processing-4.0b1.zip). You only have to unzip it.
 
 Give us some feedback [here](https://forms.gle/Qq7pGnjcNYU9mrMz7).
 
