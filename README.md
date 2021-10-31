@@ -20,6 +20,18 @@ And unzip it once it's in the right folder. It should looks like this:
 
 After tool DEIprocessing has been successfully installed, restart the Processing application.
 
+## How to use DEIprocessing
+
+Once you open the Processing application you just have to place your code in the sketch and run it the DEIprocessing tool.
+
+![image](https://user-images.githubusercontent.com/43268098/139576416-bc4b76fa-5e55-4a4f-aca8-f48d9e74b5e8.png)
+
+When the tool opens you need to press the button "NEXT" with your right click mouse to skip to the next line.
+
+![image](https://user-images.githubusercontent.com/43268098/139576491-eea6987f-fe47-4fff-ae77-a66fba0cdb67.png)
+
+
+
 Give us some feedback [here](https://forms.gle/Qq7pGnjcNYU9mrMz7).
 
 ### Troubleshooting
