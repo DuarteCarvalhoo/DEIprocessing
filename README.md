@@ -30,7 +30,15 @@ When the tool opens you need to press the button "NEXT" with your right click mo
 
 ![image](https://user-images.githubusercontent.com/43268098/139576491-eea6987f-fe47-4fff-ae77-a66fba0cdb67.png)
 
+Here is a lists of examples that you might want to try:
 
+[Examplo1](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7367053/Teste2VarsColors.txt)
+[Examplo2](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7367054/TesteCompletoForIF.txt)
+[Examplo3](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7367056/TesteForSimplesC2Colors.txt)
+[Examplo4](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7367057/TesteIFseguidoFor.txt)
+[Examplo5](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7367060/TesteVarsEShapes.txt)
+[Examplo6](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7367408/aula.txt)
+[Examplo7](https://github.com/DuarteCarvalhoo/DEIprocessing/files/7448458/TesteIFsimplesC2Colors.txt)
 
 Give us some feedback [here](https://forms.gle/Qq7pGnjcNYU9mrMz7).
 
